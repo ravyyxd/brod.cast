@@ -2,4 +2,4 @@
 
 --твой гуи сдесь
 
-loadstring(game:HttpGet("https://raw.githubusercontent.com/ravyyxd/bootstrapper/refs/heads/main/lua.lua"))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ravyyxd/bootstrapper/refs/heads/main/best.lua"))()
