@@ -2,4 +2,4 @@
 
 --твой гуи сдесь
 
-https://raw.githubusercontent.com/ravyyxd/bootstrapper/refs/heads/main/lua
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ravyyxd/bootstrapper/refs/heads/main/lua"))()
